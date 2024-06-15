@@ -33,7 +33,7 @@ function Chats({ openedGrp, closeChatsReciever }) {
 
   const getAIResponse = async () => {
     try {
-      const { data } = await axios.post('http://localhost:5000/api/chat/ask', {
+      const { data } = await axios.post('https://growth-partner-ataul.onrender.com/api/chat/ask', {
         message: chat.q,
         userID
       });
