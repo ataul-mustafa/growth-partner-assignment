@@ -1,0 +1,200 @@
+{
+  "April 2024": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 3353.14
+      },
+      "Total Bank": 3353.14,
+      "Current Assets": {
+        "Accounts Receivable": 6946.33
+      },
+      "Total Current Assets": 6946.33,
+      "Fixed Assets": {
+        "Computer Equipment": 1804.50,
+        "Office Equipment": 923.79
+      },
+      "Total Fixed Assets": 2728.29,
+      "Total Assets": 13027.76
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 2242.00,
+        "Historical Adjustment": 4130.98,
+        "Sales Tax": 419.35
+      },
+      "Total Current Liabilities": 6792.33,
+      "Total Liabilities": 6792.33
+    },
+    "Net Assets": 6235.43,
+    "Equity": {
+      "Current Year Earnings": 6254.33,
+      "Retained Earnings": -18.90,
+      "Total Equity": 6235.43
+    }
+  },
+  "March 2024": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 3706.95
+      },
+      "Total Bank": 3706.95,
+      "Current Assets": {
+        "Accounts Receivable": 9143.75
+      },
+      "Total Current Assets": 9143.75,
+      "Fixed Assets": {
+        "Computer Equipment": 1804.50,
+        "Office Equipment": 0.00
+      },
+      "Total Fixed Assets": 1804.50,
+      "Total Assets": 14655.20
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 3646.34,
+        "Historical Adjustment": 4130.98,
+        "Sales Tax": 389.54
+      },
+      "Total Current Liabilities": 8166.86,
+      "Total Liabilities": 8166.86
+    },
+    "Net Assets": 6488.34,
+    "Equity": {
+      "Current Year Earnings": 6507.24,
+      "Retained Earnings": -18.90,
+      "Total Equity": 6488.34
+    }
+  },
+  "February 2024": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 4130.98
+      },
+      "Total Bank": 4130.98,
+      "Current Assets": {
+        "Accounts Receivable": 0.00
+      },
+      "Total Current Assets": 0.00,
+      "Fixed Assets": {
+        "Computer Equipment": 0.00,
+        "Office Equipment": 0.00
+      },
+      "Total Fixed Assets": 0.00,
+      "Total Assets": 4130.98
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 18.90,
+        "Historical Adjustment": 4130.98,
+        "Sales Tax": 0.00
+      },
+      "Total Current Liabilities": 4149.88,
+      "Total Liabilities": 4149.88
+    },
+    "Net Assets": -18.90,
+    "Equity": {
+      "Current Year Earnings": 0.00,
+        "Retained Earnings": -18.90,
+        "Total Equity": -18.90
+    }
+  },
+  "January 2024": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 4000.00
+      },
+      "Total Bank": 4000.00,
+      "Current Assets": {
+        "Accounts Receivable": 2000.00
+      },
+      "Total Current Assets": 2000.00,
+      "Fixed Assets": {
+        "Computer Equipment": 1000.00,
+        "Office Equipment": 500.00
+      },
+      "Total Fixed Assets": 1500.00,
+      "Total Assets": 7500.00
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 1500.00,
+        "Historical Adjustment": 4000.00,
+        "Sales Tax": 200.00
+      },
+      "Total Current Liabilities": 5700.00,
+      "Total Liabilities": 5700.00
+    },
+    "Net Assets": 1800.00,
+    "Equity": {
+      "Current Year Earnings": 1818.90,
+      "Retained Earnings": -18.90,
+      "Total Equity": 1800.00
+    }
+  },
+  "December 2023": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 3500.00
+      },
+      "Total Bank": 3500.00,
+      "Current Assets": {
+        "Accounts Receivable": 1800.00
+      },
+      "Total Current Assets": 1800.00,
+      "Fixed Assets": {
+        "Computer Equipment": 900.00,
+        "Office Equipment": 400.00
+      },
+      "Total Fixed Assets": 1300.00,
+      "Total Assets": 6600.00
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 1600.00,
+        "Historical Adjustment": 3500.00,
+        "Sales Tax": 200.00
+      },
+      "Total Current Liabilities": 5300.00,
+      "Total Liabilities": 5300.00
+    },
+    "Net Assets": 1300.00,
+    "Equity": {
+      "Current Year Earnings": 1318.90,
+      "Retained Earnings": -18.90,
+      "Total Equity": 1300.00
+    }
+  },
+  "November 2023": {
+    "Assets": {
+      "Bank": {
+        "Business Bank Account": 3000.00
+      },
+      "Total Bank": 3000.00,
+      "Current Assets": {
+        "Accounts Receivable": 1500.00
+      },
+      "Total Current Assets": 1500.00,
+      "Fixed Assets": {
+        "Computer Equipment": 800.00,
+        "Office Equipment": 300.00
+      },
+      "Total Fixed Assets": 1100.00,
+      "Total Assets": 5600.00
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accounts Payable": 1200.00,
+        "Historical Adjustment": 3000.00,
+        "Sales Tax": 200.00
+      },
+      "Total Current Liabilities": 4400.00,
+      "Total Liabilities": 4400.00
+    },
+    "Net Assets": 1200.00,
+    "Equity": {
+      "Current Year Earnings": 1218.90,
+      "Retained Earnings": -18.90,
+      "Total Equity": 1200.00
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "revenue": {
+        "January": 10000,
+        "February": 12000,
+        "March": 15000,
+        "April": 13000,
+        "May": 14000,
+        "June": 16000,
+        "July": 17000,
+        "August": 18000,
+        "September": 15000,
+        "October": 14000,
+        "November": 13000,
+        "December": 12000
+    },
+    "expenses": {
+        "January": 5000,
+        "February": 7000,
+        "March": 8000,
+        "April": 6000,
+        "May": 6500,
+        "June": 7000,
+        "July": 7500,
+        "August": 8000,
+        "September": 7000,
+        "October": 6000,
+        "November": 5500,
+        "December": 5000
+    }
+}
